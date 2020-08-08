@@ -1,4 +1,4 @@
-<p dir="rtl" align="right"><b>رزومه بهرام بهنژاد</b></p>
+<p dir="rtl" align="right"><b><font size="+2">رزومه بهرام بهنژاد</font></b></p>
 <img src="profile.png">
  <p dir="rtl" align="right"><b>مهات های من</b></p>
  <p align="right">C#</p>
