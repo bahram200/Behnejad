@@ -3,7 +3,7 @@
 
 
 ## <p dir="rtl" align="right">مهات های من</p>
--  <p align="right">C#</p>
+  <p align="right">- C#</p>
 - SqlServer
 - CSS
 - Html
