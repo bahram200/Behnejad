@@ -2,7 +2,7 @@
 <img src="profile.png">
 
 
-## مهات های من
+## <p dir="rtl" align="right">مهات های من</p>
 - C# 
 - SqlServer
 - CSS
