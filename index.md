@@ -3,8 +3,8 @@
 
 
 ## <p dir="rtl" align="right">مهات های من</p>
-- <p align="right">C#</p>
-- <p align="right">CSS</p>
+ <p align="right">C#</p>
+- <p align="right">CSS -</p>
 - <p align="right">SqlServer</p>
 - <p align="right">Html</p>
 - <p align="right">Javascript</p>
