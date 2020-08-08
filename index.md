@@ -15,6 +15,6 @@
  <p align="right"><b>نمونه کارها</b></p>
  <p align="right">طراحی سایت برای فروشگاه آنلاین</p>
  <p align="right"><b>ارتباط با من</b></p>
-  <p align="right">ایمیل : bahram.behnejad1366@gmail.com</p>
-  <p align="right">شماره تماس : 09224328683</p>
+  <p align="right">Email : bahram.behnejad1366@gmail.com</p>
+  <p align="right">Tel: 09224328683</p>
 <p align="right">https://quera.ir/profile/bahram.behnejad1366</p>
