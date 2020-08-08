@@ -1,4 +1,4 @@
-# رزومه بهرام بهنژاد
+# <p dir="rtl" align="right">ررزومه بهرام بهنژاد</p>
 <img src="profile.png">
 
 
