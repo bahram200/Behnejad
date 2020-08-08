@@ -17,4 +17,4 @@
  <p align="right">ارتباط با من</p>
   <p align="right">ایمیل : bahram.behnejad1366@gmail.com</p>
   <p align="right">شماره تماس : 09224328683</p>
-<p align="right">Quera Address--->https://quera.ir/profile/bahram.behnejad1366</p>
+<p align="right">Quera Address:https://quera.ir/profile/bahram.behnejad1366</p>
