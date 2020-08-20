@@ -8,6 +8,9 @@
  <p dir="rtl" align="right"><b>آذری</b></p>
  <p dir="rtl" align="right"><b>فارسی</b></p>
 <p dir="rtl" align="right"><b>سوابق تحصیلی: </b></p>
+<p dir="rtl" align="right"><b>دانشجوی کارشناسی ارشد مهندسی نرم افزار دانشگاه پیام نور واحد شهر ری استان تهران </b></p>
+<p dir="rtl" align="right"><b> لیسانس مهندسی تکنولوژی نرم افزار کامپیوتر از موسسه آموزش عالی دانش.ران تبریز </b></p>
+<p dir="rtl" align="right"><b>دیپلم کامپیوتر از هنرستان فنی و حرفه ای رازی شهرستان بیله سوار </b></p>
  <p dir="rtl" align="right"><b>مهات های من</b></p>
  <p align="right">C#</p>
  <p align="right">CSS</p>
