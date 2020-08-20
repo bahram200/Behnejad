@@ -7,7 +7,7 @@
  <p dir="rtl" align="right"><b>انگلیسی</b></p>
  <p dir="rtl" align="right"><b>آذری</b></p>
  <p dir="rtl" align="right"><b>فارسی</b></p>
-
+<p dir="rtl" align="right"><b>سوابق تحصیلی: </b></p>
  <p dir="rtl" align="right"><b>مهات های من</b></p>
  <p align="right">C#</p>
  <p align="right">CSS</p>
