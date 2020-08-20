@@ -4,9 +4,9 @@
  <p dir="rtl" align="right"><b>وضعیت تأهل: مجرد </b></p>
  <p dir="rtl" align="right"><b>وضعیت اشتغال: کارمند سازمان تأمین اجتماعی</b></p>
  <p dir="rtl" align="right"><b>آشنایی با زبان ها:</b></p>
- <p dir="rtl" align="right"><b>انگلیسی</b></p>
- <p dir="rtl" align="right"><b>آذری</b></p>
- <p dir="rtl" align="right"><b>فارسی</b></p>
+ <p dir="rtl" align="right">انگلیسی</p>
+ <p dir="rtl" align="right">آذری</p>
+ <p dir="rtl" align="right">فارسی</p>
 <p dir="rtl" align="right"><b>سوابق تحصیلی: </b></p>
 <p dir="rtl" align="right">دانشجوی کارشناسی ارشد مهندسی نرم افزار دانشگاه پیام نور واحد شهر ری استان تهران </p>
 <p dir="rtl" align="right"> لیسانس مهندسی تکنولوژی نرم افزار کامپیوتر از موسسه آموزش عالی دانشوران تبریز </p>
