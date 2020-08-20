@@ -1,5 +1,12 @@
 <p dir="rtl" align="right"><b>رزومه بهرام بهنژاد</b></p>
 <img src="profile.png">
+ <p dir="rtl" align="right"><b>تاریخ تولد:</b></p>
+ <p dir="rtl" align="right"><b>1366/01/12</b></p>
+ <p dir="rtl" align="right"><b>وضعیت تأهل</b></p>
+ <p dir="rtl" align="right"><b>مجرد</b></p>
+ 
+ 
+
  <p dir="rtl" align="right"><b>مهات های من</b></p>
  <p align="right">C#</p>
  <p align="right">CSS</p>
