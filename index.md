@@ -3,9 +3,10 @@
  <p dir="rtl" align="right"><b>تاریخ تولد: 1366/01/12</b></p>
  <p dir="rtl" align="right"><b>وضعیت تأهل: مجرد </b></p>
  <p dir="rtl" align="right"><b>وضعیت اشتغال: کارمند سازمان تأمین اجتماعی</b></p>
- <p dir="rtl" align="right"><b></b></p>
- 
- 
+ <p dir="rtl" align="right"><b>آشنایی با زبان ها:</b></p>
+ <p dir="rtl" align="right"><b>انگلیسی</b></p>
+ <p dir="rtl" align="right"><b>آذری</b></p>
+ <p dir="rtl" align="right"><b>فارسی</b></p>
 
  <p dir="rtl" align="right"><b>مهات های من</b></p>
  <p align="right">C#</p>
