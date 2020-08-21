@@ -12,7 +12,7 @@
  <p dir="rtl" align="right"><b>آشنایی با زبان ها:</b></p>
  <p dir="rtl" align="right"><b>Languages Acquaintedness:</b></p>
  <p dir="rtl" align="right">انگلیسی</p>
- <p dir="rtl" align="right"><b>English</b></p>
+ <p dir="rtl" align="right">English</p>
  <p dir="rtl" align="right">Persian</p>
  <p dir="rtl" align="right">فارسی</p>
  <p dir="rtl" align="right">آذری</p>
