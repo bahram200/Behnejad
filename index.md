@@ -17,7 +17,7 @@
  <p dir="rtl" align="right">فارسی</p>
  <p dir="rtl" align="right">آذری</p>
  <p dir="rtl" align="right">Azerbaijan</p>
- <p dir="rtl" align="right">دوره های آموزشی و کارگاه</b></p>
+ <p dir="rtl" align="right"><b>دوره های آموزشی و کارگاه</b></p>
  <p dir="rtl" align="right"><b>Training courses and workshops</b></p>
  <p dir="rtl" align="right">دوره تخصصی ویندوز سرور2012</p>
  <p dir="rtl" align="right">Windows Server 2012 specialized course</p>
