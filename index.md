@@ -27,7 +27,6 @@
   <p dir="rtl" align="right">IT course</p>
  <p dir="rtl" align="right">دوره آموزشی برق ساختمان درجه یک و درجه دو</p>
   <p dir="rtl" align="right">First and second grade building electrical training course</p>
- 
 <p dir="rtl" align="right"><b>سوابق تحصیلی: </b></p>
 <p dir="rtl" align="right">Educational Background:</p>
 <p dir="rtl" align="right">دانشجوی کارشناسی ارشد مهندسی نرم افزار دانشگاه پیام نور واحد شهر ری استان تهران </p>
