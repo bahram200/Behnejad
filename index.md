@@ -23,8 +23,8 @@
  <p dir="rtl" align="right">Windows Server 2012 specialized course</p>
  <p dir="rtl" align="right">دوره تخصصی تعمیرات سخت افزار</p>
   <p dir="rtl" align="right">Specialized course of hardware repairs</p>
- <p dir="rtl" align="right"><b>دوره تخصصی فناوری اطلاعات</p>
-  <p dir="rtl" align="right">IT course</b></p>
+ <p dir="rtl" align="right">دوره تخصصی فناوری اطلاعات</p>
+  <p dir="rtl" align="right">IT course</p>
  <p dir="rtl" align="right">دوره آموزشی برق ساختمان درجه یک و درجه دو</p>
   <p dir="rtl" align="right">First and second grade building electrical training course</p>
  
