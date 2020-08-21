@@ -10,7 +10,7 @@
  <p dir="rtl" align="right"><b>شهر محل سکونت: استان اردبیل، شهرستان بیله سوار</b></p>
  <p dir="rtl" align="right"><b>City of habitation: Ardebil Province, Bilehsavar city</b></p>
  <p dir="rtl" align="right"><b>آشنایی با زبان ها:</b></p>
- <p dir="rtl" align="right"><b>Languages Acquaintedness:</b></p>
+ <p dir="rtl" align="right"><b>Languages Acquaintedness</b></p>
  <p dir="rtl" align="right">انگلیسی</p>
  <p dir="rtl" align="right">English</p>
  <p dir="rtl" align="right">Persian</p>
@@ -19,15 +19,15 @@
  <p dir="rtl" align="right">Azerbaijan</p>
  <p dir="rtl" align="right">دوره های آموزشی و کارگاه</b></p>
  <p dir="rtl" align="right"><b>Training courses and workshops</b></p>
- <p dir="rtl" align="right"><b>دوره تخصصی ویندوز سرور2012</b></p>
- <p dir="rtl" align="right"><b>Windows Server 2012 specialized course</b></p>
- <p dir="rtl" align="right"><b>دوره تخصصی تعمیرات سخت افزار</b></p>
-  <p dir="rtl" align="right"><b>Specialized course of hardware repairs</b></p>
- <p dir="rtl" align="right"><b>دوره تخصصی فناوری اطلاعات</b></p>
-  <p dir="rtl" align="right"><b>IT course</b></p>
- <p dir="rtl" align="right"><b>دوره آموزشی برق ساختمان درجه یک و درجه دو</b></p>
-  <p dir="rtl" align="right"><b>First and second grade building electrical training course</b></p>
- <p dir="rtl" align="right"><b>آشنایی با زبان ها:</b></p>
+ <p dir="rtl" align="right">دوره تخصصی ویندوز سرور2012</p>
+ <p dir="rtl" align="right">Windows Server 2012 specialized course</p>
+ <p dir="rtl" align="right">دوره تخصصی تعمیرات سخت افزار</p>
+  <p dir="rtl" align="right">Specialized course of hardware repairs</p>
+ <p dir="rtl" align="right"><b>دوره تخصصی فناوری اطلاعات</p>
+  <p dir="rtl" align="right">IT course</b></p>
+ <p dir="rtl" align="right">دوره آموزشی برق ساختمان درجه یک و درجه دو</p>
+  <p dir="rtl" align="right">First and second grade building electrical training course</p>
+ 
 <p dir="rtl" align="right"><b>سوابق تحصیلی: </b></p>
 <p dir="rtl" align="right">Educational Background:</p>
 <p dir="rtl" align="right">دانشجوی کارشناسی ارشد مهندسی نرم افزار دانشگاه پیام نور واحد شهر ری استان تهران </p>
