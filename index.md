@@ -1,9 +1,14 @@
 <p dir="rtl" align="right"><b>رزومه بهرام بهنژاد</b></p>
+<p dir="rtl" align="right"><b>Bahram Behnejad Resume</b></p>
 <img src="profile.png">
  <p dir="rtl" align="right"><b>تاریخ تولد: 1366/01/12</b></p>
+ <p dir="rtl" align="right"><b> Birthday: 1987/03/21</b></p>
  <p dir="rtl" align="right"><b>وضعیت تأهل: مجرد </b></p>
+ <p dir="rtl" align="right"><b>Marital Status: Single</b></p>
  <p dir="rtl" align="right"><b>وضعیت اشتغال: کارمند سازمان تأمین اجتماعی</b></p>
+ <p dir="rtl" align="right"><b>Work Status: Employee of Social security organization</b></p>
  <p dir="rtl" align="right"><b>شهر محل سکونت: استان اردبیل، شهرستان بیله سوار</b></p>
+ <p dir="rtl" align="right"><b>City of habitation: Ardebil Province, Bilehsavar city</b></p>
  <p dir="rtl" align="right"><b>آشنایی با زبان ها:</b></p>
  <p dir="rtl" align="right">انگلیسی</p>
  <p dir="rtl" align="right">آذری</p>
